@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 28px;
+}
+
+p {
+  margin-left: 2em;
+}
+
+.viper {
+  width:70em
+}
+
+body {
+  background-color: #DDBEA9;
+}
+
+.head {
+  border-bottom: 2px solid black;
+  width: 1200px;
+}
